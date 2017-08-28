@@ -2,7 +2,7 @@
 # Made yonks ago but done up properly on 24/08/2017
 
 # Takes python source code and makes a file and optionally runs it with print
-# statements after every function, printing out the functions name and
+# statements after every function call, printing out the function's name and
 # the given parameter values, so that every time any function is called
 # the program tells you what's happening
 
